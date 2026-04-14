@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#1A1A1A"/>
+  <rect x="52" y="52" width="408" height="408" rx="72" fill="#FFD700"/>
+  <!-- Paper shape -->
+  <rect x="116" y="90" width="280" height="346" rx="20" fill="#FFFFFF" opacity="0.95"/>
+  <!-- Lines on paper -->
+  <rect x="152" y="148" width="204" height="16" rx="8" fill="#E5E7EB"/>
+  <rect x="152" y="192" width="162" height="16" rx="8" fill="#E5E7EB"/>
+  <rect x="152" y="236" width="186" height="16" rx="8" fill="#E5E7EB"/>
+  <rect x="152" y="280" width="148" height="16" rx="8" fill="#E5E7EB"/>
+  <!-- Red circle mark (○) -->
+  <circle cx="310" cy="348" r="64" fill="none" stroke="#C8001E" stroke-width="18" stroke-linecap="round"/>
+  <!-- Star decoration -->
+  <text x="138" y="130" font-size="58" fill="#FFD700">★</text>
+</svg>
